@@ -1,2 +1,2 @@
 Memento mori
-![asdf](./IMG_4888-1(1).jpg)
+![asdf](./IMG_4888-1(1).jpeg)
